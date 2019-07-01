@@ -1,2 +1,2 @@
-var msg = 'Olá Malandrovisk';
+var msg = 'Olá Malandrovisk mudado';
 console.log(msg);
